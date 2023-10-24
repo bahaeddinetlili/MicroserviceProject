@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ef5a305-0582-46c0-acf3-ae921fd21233" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Vd9mU8jOQDDvl6xzaPWzwetUFW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bahae/OneDrive/Bureau/EUREKASERVER&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;65afdfb40872c44eb6118b669b0d751e&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CandidateApplication">
+    <configuration name="CandidateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="candidate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.candidate.CandidateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="candidate:v2" />
+          <option name="buildOnly" value="true" />
+          <option name="containerName" value="candidate" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ef5a305-0582-46c0-acf3-ae921fd21233" name="Changes" comment="" />
+      <created>1695155249348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695155249348</updated>
+      <workItem from="1695155250573" duration="4935000" />
+      <workItem from="1695731848585" duration="574000" />
+      <workItem from="1696236186678" duration="206000" />
+      <workItem from="1696690693626" duration="141000" />
+      <workItem from="1696691553782" duration="943000" />
+      <workItem from="1696692531030" duration="90000" />
+      <workItem from="1696692662567" duration="381000" />
+      <workItem from="1696693268217" duration="146000" />
+      <workItem from="1696693426554" duration="100000" />
+      <workItem from="1696693669921" duration="317000" />
+      <workItem from="1696757670964" duration="4581000" />
+      <workItem from="1696767081465" duration="816000" />
+      <workItem from="1696770304573" duration="23000" />
+      <workItem from="1696770424479" duration="8000" />
+      <workItem from="1696770610192" duration="1725000" />
+      <workItem from="1696772407872" duration="796000" />
+      <workItem from="1696876585991" duration="2502000" />
+      <workItem from="1696884309569" duration="12454000" />
+      <workItem from="1697388082225" duration="3403000" />
+      <workItem from="1697392912594" duration="715000" />
+      <workItem from="1697394050385" duration="2582000" />
+      <workItem from="1697484248752" duration="664000" />
+      <workItem from="1697571820300" duration="887000" />
+      <workItem from="1697580683425" duration="167000" />
+      <workItem from="1697625140440" duration="10012000" />
+      <workItem from="1698047621415" duration="947000" />
+      <workItem from="1698053911928" duration="1305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
